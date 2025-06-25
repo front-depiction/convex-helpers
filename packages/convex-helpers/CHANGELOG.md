@@ -7,7 +7,6 @@
   arguments must/may be provided alongside the args/handler at the
   function definition site. See the README for more info.
 
-
 ## 0.1.95
 
 - Improved CORS support for server-to-server endpoints, along with more
